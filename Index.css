@@ -2,7 +2,7 @@ body {
  background-color: #fff;
  background-image: url("https://imgur.com/R9ry6OU.png")
 }
-h1 {
+.h1 {
   color: #ffffff;
   text-shadow:
    -1px -1px 0 #000000,  
