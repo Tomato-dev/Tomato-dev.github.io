@@ -6,4 +6,9 @@ body {
  display: block;
  margin-left: auto; 
 margin-right: auto;
+ h1 {
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 10px;
+  -webkit-text-stroke-color: black;
+}
 }
