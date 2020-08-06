@@ -7,6 +7,6 @@ body {
  margin-left: auto; 
 margin-right: auto;
  color: #fff;
-  -webkit-text-stroke-width: 10px;
+  -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: #000;
 }
